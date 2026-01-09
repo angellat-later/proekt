@@ -53,3 +53,6 @@ font-size:25px;
 }
 .text{
     font-size:30px;}
+a {
+    display: block;
+}
