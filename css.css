@@ -10,16 +10,13 @@ body{
     background-image:linear-gradient(to right bottom, lightblue, red);
 }
 p{
- 
     font-size:20px;
     text-align: center;
     color:rgb(60, 84, 84);
 }
 img{
-
     width:200x;
     height:200px;
-    
 }
 body p{
     margin:0 auto;
@@ -31,7 +28,6 @@ h3 p{
     color:blue;
 }
 h1 h2{ 
-    
     text-align: center;
     font-size:25px;
 }
