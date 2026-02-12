@@ -5,9 +5,13 @@ h2{
     width:70%
 }
 img{
+    text-align:center;
     height:250px;
     width:200px;
 }
 inframe{
-  text-align:center;
+    text-align:center;
+}
+p{
+    text-align:center;
 }
